@@ -1,6 +1,6 @@
-# GCDM: Exploring Implications for Structure Growth
+# Running gravitational constant induced dark energy as a solution to σ8 tension
 
-This repository contains code for the paper titled "GCDM: Exploring Implications for Structure Growth". 
+This repository contains code for the paper titled "Running gravitational constant induced dark energy as a solution to σ8 tension". 
 
 ## Folder Structure
 
